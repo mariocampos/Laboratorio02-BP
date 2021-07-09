@@ -1,4 +1,4 @@
-#Laboratorio 02
+# Laboratorio 02
 ---
 En este laboratorio se instalará Nginx en una imagen mediante **Dockerfile**
 1. Se crea una carpeta, en este caso le pondré *Nginx*:
